@@ -1,0 +1,33 @@
+export const cards = [
+  {
+    name: "Reward Hacking",
+    definition: "Write your definition here",
+    machineExample: "EXAMPLE FROM TEXT",
+    humanExample: "EXAMPLE FROM YOUR ANSWERS"
+  },
+  {
+    name: "Negative Side Effects",
+    definition: "Write your definition here",
+    machineExample: "EXAMPLE FROM TEXT",
+    humanExample: "EXAMPLE FROM YOUR ANSWERS"
+  },
+{
+    name: "Scalable Oversight",
+    definition: "Write your definition here",
+    machineExample: "EXAMPLE FROM TEXT",
+    humanExample: "EXAMPLE FROM YOUR ANSWERS"
+  },
+{
+    name: "Safe Exploration",
+    definition: "Write your definition here",
+    machineExample: "EXAMPLE FROM TEXT",
+    humanExample: "EXAMPLE FROM YOUR ANSWERS"
+  },
+{
+    name: "Robustness to Distributional Shift",
+    definition: "Write your definition here",
+    machineExample: "EXAMPLE FROM TEXT",
+    humanExample: "EXAMPLE FROM YOUR ANSWERS"
+  },
+
+];
