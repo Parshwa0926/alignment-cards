@@ -11,8 +11,8 @@ export const categories = [
 
 
 export const cards = [
-
-{
+  
+  {
   "category": "AP",
   "name": "Beneficence",
   "definition": "Act to promote the well-being of others.",
@@ -29,79 +29,79 @@ export const cards = [
   },
   { 
     "category": "AP", 
-    "name": "TEMPLATE 1", 
-    "definition": "basic definition that works across four domains", 
-    "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-    "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-    "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-    "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
-    "failureModes": { 
-      "human": "Give concrete example(s).", 
-      "organizational": "Give concrete example(s).", 
-      "professional": "Give concrete example(s).", 
-      "machine": "Give concrete example(s)."
+    "name": "Justice", 
+    "definition": "Act to ensure fairness, equity, and impartiality", 
+    "human": "Treating others without bias or favoritism, ensuring all people have equal access to opportunities.", 
+    "organizational": "Implementing policies that distribute resources and responsibilities fairly across stakeholders", 
+    "professional": "Making judgments based on merit and need rather than personal interest.", 
+    "machine": "Ensuring algorithms make equitable decisions and do not reinforce discrimination or bias.",
+    "failureModes": {
+      "human": "A manager promotes a friend over a more qualified candidate.",
+      "organizational": "A company’s hiring algorithm disproportionately rejects applicants from minority groups.",
+      "professional": "An expert allocates resources to wealthier clients while neglecting underserved communities.",
+      "machine": "A predictive policing system targets certain neighborhoods unfairly due to biased data."
     }
   },
   { 
     "category": "AP", 
-    "name": "TEMPLATE 2", 
-    "definition": "basic definition that works across four domains", 
-    "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-    "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-    "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-    "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+    "name": "Non-maleficence", 
+    "definition": "Avoid causing harm or unnecessary risk to others.", 
+    "human": "Refraining from actions that could injure or disadvantage others, even when there is personal gain.", 
+    "organizational": "Designing products and policies that minimize negative social or environmental impacts.", 
+    "professional": "Avoiding professional actions that could harm clients or other workers.", 
+    "machine": "Preventing systems from causing physical, psychological, or societal harm through malfunction or misuse.", 
     "failureModes": { 
-      "human": "Give concrete example(s).", 
-      "organizational": "Give concrete example(s).", 
-      "professional": "Give concrete example(s).", 
-      "machine": "Give concrete example(s)."
+      "human": "A driver texts while driving, endangering others.",
+      "organizational": "A company releases an untested product that causes harm to users.",
+      "professional": "A scientist publishes misleading results to gain recognition.",
+      "machine": "An autonomous vehicle misinterprets data and causes an accident."
     }
   },
   { 
     "category": "AP", 
-    "name": "TEMPLATE 3", 
-    "definition": "basic definition that works across four domains", 
-    "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-    "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-    "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-    "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+    "name": "Transparency", 
+    "definition": "Ensure clarity and accessibility of information relevant to decisions and actions.", 
+    "human": "Being honest about intentions when interacting with others.", 
+    "organizational": "Making internal processes and decision rationales visible to employees and stakeholders.", 
+    "professional": "Disclosing potential conflicts of interest or uncertainties in expert opinions.", 
+    "machine": "Providing interpretable explanations for algorithmic decisions and data use.", 
     "failureModes": { 
-      "human": "Give concrete example(s).", 
-      "organizational": "Give concrete example(s).", 
-      "professional": "Give concrete example(s).", 
-      "machine": "Give concrete example(s)."
+      "human": "A person hides mistakes to protect their reputation.",
+      "organizational": "A corporation conceals product defects from customers.",
+      "professional": "A consultant withholds crucial data that challenges their conclusion.",
+      "machine": "A deep learning model produces outcomes that even developers can’t explain."
     }
   },
   { 
     "category": "AP", 
-    "name": "TEMPLATE 4", 
-    "definition": "basic definition that works across four domains", 
-    "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-    "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-    "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-    "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+    "name": "Accountability", 
+    "definition": "Accept responsibility for actions, decisions, and their consequences.", 
+    "human": "Owning up to mistakes and making amends for harms caused.", 
+    "organizational": "Creating systems of oversight where decisions and impacts can be traced and corrected.", 
+    "professional": "Standing behind one’s work and being answerable to ethical and legal standards.", 
+    "machine": "Embedding mechanisms that allow tracking, auditing, and attribution of automated decisions.", 
     "failureModes": { 
-      "human": "Give concrete example(s).", 
-      "organizational": "Give concrete example(s).", 
-      "professional": "Give concrete example(s).", 
-      "machine": "Give concrete example(s)."
+      "human": "A person blames coworkers for their own errors.",
+      "organizational": "A company shifts blame to a third party contractor for data breaches.",
+      "professional": "An engineer disclaims responsibility for unsafe designs, citing client pressure.",
+      "machine": "A ML system makes a harmful decision with no clear accountability"
     }
   },
   { 
     "category": "AP", 
-    "name": "TEMPLATE 5", 
-    "definition": "basic definition that works across four domains", 
-    "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-    "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-    "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-    "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+    "name": "Privacy", 
+    "definition": "Respect individual control over their personal information and boundaries.", 
+    "human": "Protecting others personal information and respecting their autonomy", 
+    "organizational": "Safeguarding user data and ensuring informed consent in data collection.", 
+    "professional": "Maintaining confidentiality of client and participant information.", 
+    "machine": "Minimizing unnecessary data collection and preserving user anonymity where possible.", 
     "failureModes": { 
-      "human": "Give concrete example(s).", 
-      "organizational": "Give concrete example(s).", 
-      "professional": "Give concrete example(s).", 
-      "machine": "Give concrete example(s)."
+      "human": "A friend shares another person’s private message without consent.",
+      "organizational": "A social media company sells user data without transparent consent.",
+      "professional": "A doctor reveals patient details in casual conversation.",
+      "machine": "A smart home device records and transmits private conversations to external servers."
     }
-  }
+  },
 
 
 ]
