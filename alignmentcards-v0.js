@@ -152,7 +152,5 @@ export const cards = [
     "professional": "Coaches publicly promote teamwork but bench players who take low visibility supporting roles.",
     "machine": "Analytics models overvalue scoring metrics and ignore off-ball actions or defensive synergy, reinforcing selfish play."
   }
-}
-
-
-]
+ },
+];
