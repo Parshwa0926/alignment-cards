@@ -102,7 +102,7 @@ export const cards = [
       "machine": "A smart home device records and transmits private conversations to external servers."
     }
   },
-  { 
+  /*{ 
     "category": "AB", 
     "name": "Education (scores vs. learning)", 
     "definition": "Hoped for: Critical thinking with actual understanding.\n Rewarded for: Teaching to the test.", 
@@ -142,6 +142,52 @@ export const cards = [
     "definition": "Hoped for: Teamwork, selflessness, and collective spirit.\nRewarded for: Individual performance, scoring statistics, and personal accolades.",
     "alignmentFailure": "Individualized incentives: systems publicly praise teamwork but materially reward personal achievement, encouraging self-interest over cooperation.",
     "affirmativeDesign": "Reward team contribution and unselfish play; structure incentives to recognize assists, leadership, and collective outcomes as much as individual statistics.",
+    "human": "Athletes align when collaboration, support, and situational intelligence are recognized as central to success not just visible scoring.",
+    "organizational": "Teams align when contracts, bonuses, and recognition systems reflect contributions to group success and culture rather than individual numbers.",
+    "professional": "Coaches and sports experts align when evaluation emphasizes decision-making, leadership, and teamwork under pressure instead of raw performance data.",
+    "machine": "Sports analytics systems align when they measure off ball movement, assists, defensive coordination, and other subtle team first behaviors alongside individual stats.",
+    "failureModes": {
+      "human": "Players prioritize personal stats over teamwork, passing up smart plays to boost their visibility.",
+      "organizational": "Teams reward individual scorers with larger contracts even when they harm overall cohesion.",
+      "professional": "Coaches publicly promote teamwork but bench players who take low visibility supporting roles.",
+      "machine": "Analytics models overvalue scoring metrics and ignore off-ball actions or defensive synergy, reinforcing selfish play."
+    }
+  }
+  */
+  { 
+    "category": "AB", 
+    "name": "Education (scores vs. learning)", 
+    "definition": "Hoped for: Critical thinking with actual understanding.\n Rewarded for: Teaching to the test.\nShort-term correctedness: optimizing for easy grades that distort true learning goals.\nReward durable learning and conceptual transfer, design metrics that reward synthesis, application, and retention over time", 
+    "human": "People learn best when effort, reflection, and curiosity are encouraged instead of rote accuracy.", 
+    "organizational": "Educational institutions align when policies and incentives support deep learning, interdisciplinary thinking, and creativity rather than test results.", 
+    "professional": "Educators and curriculum designers uphold alignment by emphasizing critical reasoning, exploration, and feedback-based improvement.", 
+    "machine": "Learning technologies stay aligned when they teach conceptual mastery and adaptability instead of optimizing for immediate right answers.", 
+    "failureModes": { 
+      "human": "A student studies only what’s on the test, forgetting it the next day",
+      "organizational": "Districts cut art or project-based classes because they don’t raise standardized metric",
+      "professional": "Professors use multiple-choice exams over open problems to make grading efficient.",
+      "machine": "A tutoring model learns to hint at correct answers rather than teaching reasoning, inflating its success score."
+    }
+  },
+  { 
+    "category": "AB", 
+    "name": "Healthcare (productivity vs. healing)", 
+    "definition": "Hoped for: Compassionate, patient-centered healing and long-term wellness.\nRewarded for: Bbilling metrics, and speed of care.\nThroughput over care: efficiency metrics replace patient outcomes, leading to burnout and lower quality of treatment.\nMeasure care by recovery, not paperwork; reward systems that improve patient well-being, follow up consistency, and prevention."", 
+    "human": "Clinicians align when they can spend time understanding patient needs, building trust, and focusing on recovery rather than daily quotas.",
+    "organizational": "Healthcare institutions align when they design incentives and policies around sustained patient outcomes and holistic well-being.",
+    "professional": "Medical experts uphold alignment by integrating preventive care, collaboration, and ethical decision making into their work.",
+    "machine": "AI health systems remain aligned when they optimize for long term patient outcomes and transparency rather than short term efficiency.",
+    "failureModes": { 
+      "human": "Doctors rush visits or order unnecessary tests to meet daily targets.",
+      "organizational": "Hospitals reward volume and billing, leading to staff fatigue and readmissions.",
+      "professional": "Healthcare leaders evaluate performance based on procedure counts instead of recovery rates.",
+      "machine": "A scheduling AI maximizes efficiency by deferring complex cases, worsening patient outcomes."
+    }
+  },
+  {
+    "category": "AB",
+    "name": "Sports (teamwork vs. individual performance)",
+    "definition": "Hoped for: Teamwork, selflessness, and collective spirit.\nRewarded for: Individual performance, scoring statistics, and personal accolades.\nIndividualized incentives: systems publicly praise teamwork but materially reward personal achievement, encouraging self-interest over cooperation. \nReward team contribution and unselfish play; structure incentives to recognize assists, leadership, and collective outcomes as much as individual statistics.",
     "human": "Athletes align when collaboration, support, and situational intelligence are recognized as central to success not just visible scoring.",
     "organizational": "Teams align when contracts, bonuses, and recognition systems reflect contributions to group success and culture rather than individual numbers.",
     "professional": "Coaches and sports experts align when evaluation emphasizes decision-making, leadership, and teamwork under pressure instead of raw performance data.",
