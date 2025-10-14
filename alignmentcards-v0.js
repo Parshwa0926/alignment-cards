@@ -137,20 +137,20 @@ export const cards = [
     }
   },
   {
-  "category": "AB",
-  "name": "Sports (teamwork vs. individual performance)",
-  "definition": "Hoped for: Teamwork, selflessness, and collective spirit.\nRewarded for: Individual performance, scoring statistics, and personal accolades.",
-  "Pathology/Alignment Failure": "Individualized incentives: systems publicly praise teamwork but materially reward personal achievement, encouraging self-interest over cooperation.",
-  "Affirmative Design": "Reward team contribution and unselfish play; structure incentives to recognize assists, leadership, and collective outcomes as much as individual statistics.",
-  "human": "Athletes align when collaboration, support, and situational intelligence are recognized as central to success not just visible scoring.",
-  "organizational": "Teams align when contracts, bonuses, and recognition systems reflect contributions to group success and culture rather than individual numbers.",
-  "professional": "Coaches and sports experts align when evaluation emphasizes decision-making, leadership, and teamwork under pressure instead of raw performance data.",
-  "machine": "Sports analytics systems align when they measure off ball movement, assists, defensive coordination, and other subtle team first behaviors alongside individual stats.",
-  "failureModes": {
-    "human": "Players prioritize personal stats over teamwork, passing up smart plays to boost their visibility.",
-    "organizational": "Teams reward individual scorers with larger contracts even when they harm overall cohesion.",
-    "professional": "Coaches publicly promote teamwork but bench players who take low visibility supporting roles.",
-    "machine": "Analytics models overvalue scoring metrics and ignore off-ball actions or defensive synergy, reinforcing selfish play."
+    "category": "AB",
+    "name": "Sports (teamwork vs. individual performance)",
+    "definition": "Hoped for: Teamwork, selflessness, and collective spirit.\nRewarded for: Individual performance, scoring statistics, and personal accolades.",
+    "Pathology/Alignment Failure": "Individualized incentives: systems publicly praise teamwork but materially reward personal achievement, encouraging self-interest over cooperation.",
+    "Affirmative Design": "Reward team contribution and unselfish play; structure incentives to recognize assists, leadership, and collective outcomes as much as individual statistics.",
+    "human": "Athletes align when collaboration, support, and situational intelligence are recognized as central to success not just visible scoring.",
+    "organizational": "Teams align when contracts, bonuses, and recognition systems reflect contributions to group success and culture rather than individual numbers.",
+    "professional": "Coaches and sports experts align when evaluation emphasizes decision-making, leadership, and teamwork under pressure instead of raw performance data.",
+    "machine": "Sports analytics systems align when they measure off ball movement, assists, defensive coordination, and other subtle team first behaviors alongside individual stats.",
+    "failureModes": {
+      "human": "Players prioritize personal stats over teamwork, passing up smart plays to boost their visibility.",
+      "organizational": "Teams reward individual scorers with larger contracts even when they harm overall cohesion.",
+      "professional": "Coaches publicly promote teamwork but bench players who take low visibility supporting roles.",
+      "machine": "Analytics models overvalue scoring metrics and ignore off-ball actions or defensive synergy, reinforcing selfish play."
+    }
   }
- }
 ];
