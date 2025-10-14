@@ -102,7 +102,7 @@ export const cards = [
       "machine": "A smart home device records and transmits private conversations to external servers."
     }
   },
-  { 
+  /*{ 
     "category": "AB", 
     "name": "Education (scores vs. learning)", 
     "definition": "Hoped for: Critical thinking with actual understanding. Rewarded for: Teaching to the test. Short-term correctedness: optimizing for easy grades that distort true learning goals. Reward durable learning and conceptual transfer, design metrics that reward synthesis, application, and retention over time", 
@@ -146,5 +146,5 @@ export const cards = [
       "professional": "Coaches publicly promote teamwork but bench players who take low visibility supporting roles.",
       "machine": "Analytics models overvalue scoring metrics and ignore off-ball actions or defensive synergy, reinforcing selfish play."
     }
-  }
-]
+  }*/
+];
