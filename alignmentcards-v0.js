@@ -105,7 +105,7 @@ export const cards = [
   { 
     "category": "AB", 
     "name": "Education (scores vs. learning)", 
-    "definition": "Hoped for: Critical thinking with actual understanding.\n Rewarded for: Teaching to the test.\nShort-term correctedness: optimizing for easy grades that distort true learning goals.\nReward durable learning and conceptual transfer, design metrics that reward synthesis, application, and retention over time", 
+    "definition": "Hoped for: Critical thinking with actual understanding. Rewarded for: Teaching to the test. Short-term correctedness: optimizing for easy grades that distort true learning goals. Reward durable learning and conceptual transfer, design metrics that reward synthesis, application, and retention over time", 
     "human": "People learn best when effort, reflection, and curiosity are encouraged instead of rote accuracy.", 
     "organizational": "Educational institutions align when policies and incentives support deep learning, interdisciplinary thinking, and creativity rather than test results.", 
     "professional": "Educators and curriculum designers uphold alignment by emphasizing critical reasoning, exploration, and feedback-based improvement.", 
@@ -120,7 +120,7 @@ export const cards = [
   { 
     "category": "AB", 
     "name": "Healthcare (productivity vs. healing)", 
-    "definition": "Hoped for: Compassionate, patient-centered healing and long-term wellness.\nRewarded for: Bbilling metrics, and speed of care.\nThroughput over care: efficiency metrics replace patient outcomes, leading to burnout and lower quality of treatment.\nMeasure care by recovery, not paperwork; reward systems that improve patient well-being, follow up consistency, and prevention.", 
+    "definition": "Hoped for: Compassionate, patient-centered healing and long-term wellness. Rewarded for: Bbilling metrics, and speed of care. Throughput over care: efficiency metrics replace patient outcomes, leading to burnout and lower quality of treatment. Measure care by recovery, not paperwork; reward systems that improve patient well-being, follow up consistency, and prevention.", 
     "human": "Clinicians align when they can spend time understanding patient needs, building trust, and focusing on recovery rather than daily quotas.",
     "organizational": "Healthcare institutions align when they design incentives and policies around sustained patient outcomes and holistic well-being.",
     "professional": "Medical experts uphold alignment by integrating preventive care, collaboration, and ethical decision making into their work.",
@@ -135,7 +135,7 @@ export const cards = [
   {
     "category": "AB",
     "name": "Sports (teamwork vs. individual performance)",
-    "definition": "Hoped for: Teamwork, selflessness, and collective spirit.\nRewarded for: Individual performance, scoring statistics, and personal accolades.\nIndividualized incentives: systems publicly praise teamwork but materially reward personal achievement, encouraging self-interest over cooperation. \nReward team contribution and unselfish play; structure incentives to recognize assists, leadership, and collective outcomes as much as individual statistics.",
+    "definition": "Hoped for: Teamwork, selflessness, and collective spirit. Rewarded for: Individual performance, scoring statistics, and personal accolades.Individualized incentives: systems publicly praise teamwork but materially reward personal achievement, encouraging self-interest over cooperation. Reward team contribution and unselfish play; structure incentives to recognize assists, leadership, and collective outcomes as much as individual statistics.",
     "human": "Athletes align when collaboration, support, and situational intelligence are recognized as central to success not just visible scoring.",
     "organizational": "Teams align when contracts, bonuses, and recognition systems reflect contributions to group success and culture rather than individual numbers.",
     "professional": "Coaches and sports experts align when evaluation emphasizes decision-making, leadership, and teamwork under pressure instead of raw performance data.",
