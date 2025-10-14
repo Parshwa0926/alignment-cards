@@ -153,4 +153,4 @@ export const cards = [
       "machine": "Analytics models overvalue scoring metrics and ignore off-ball actions or defensive synergy, reinforcing selfish play."
     }
   }
-];
+]
