@@ -147,4 +147,29 @@ export const cards = [
       "machine": "Analytics models overvalue scoring metrics and ignore off-ball actions or defensive synergy, reinforcing selfish play."
     }
   }*/
+  {
+    "category": "AT",
+    "name": "Empathy",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  }
+  
+       
 ];
