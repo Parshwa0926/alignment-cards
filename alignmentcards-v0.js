@@ -169,7 +169,259 @@ export const cards = [
       "experts": "loremipsum",
       "machine": "loremipsum"
     }
-  }
-  
+  },
+  {
+    "category": "AT",
+    "name": "Accountability",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Initiative",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Considerateness",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Reciprocity",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Shared Intentionality",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Conflict Resolution",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Trustworthiness",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Epistemic Humility",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Honesty",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Role Fidelity",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Reliability/Consistency",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+      "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
+  },
        
 ];
