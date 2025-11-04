@@ -150,36 +150,33 @@ export const cards = [
   {
     "category": "AT",
     "name": "Empathy",
-    "definition": "loremipsum",
-    "people": "loremipsum",
-    "organizational": "loremipsum",
-    "organizationalref": "OPTIONAL",
-    "professionals": "loremipsum",
-    "professionalref": "OPTIONAL",
-    "machine": "loremipsum",
+    "definition": "The capacity to understand and share anothers feelings or perspective.",
+    "people": "Friends recognize unspoken problems and help",
+    "organizational": "Teams use participatory design to understand user perspectives.",
+    "professionals": "Doctors and therapists use clinical empathy to improve care quality.",
+    "machine": "An assistant updates its model of human preferences through behavior signals.",
+    "machineref": "https://slides.com/djjr/hmia2025-alignmenttraits#/8",
     "failureModes": {
-      "human": "loremipsum",
-      "organizational": "loremipsum",
-      "experts": "loremipsum",
-      "machine": "loremipsum"
+      "human": "Social disconenction and considered to be insensitive",
+      "organizational": "Products or even policies dont align with the needs of stakeholders",
+      "experts": "Leads to lack of client trust due to lack of manners",
+      "machine": "Leads to useer frustations because misinterpration of true intent"
     },
       "expand": {
-      "human": "loremipsum",
-      "organizational": "loremipsum",
-      "experts": "loremipsum",
-      "machine": "loremipsum"
+      "human": "Emapthy aligns indiviudal intentions iwht the collective well being",
+      "organizational": "Organizations integrate empathy through human centered design",
+      "experts": "Empathy helps professionals adapt to emotional and contextual cues",
+      "machine": "Empathetic AI refines models through feedback and recognition."
     }
   },
   {
     "category": "AT",
     "name": "Accountability",
-    "definition": "loremipsum",
-    "people": "loremipsum",
-    "organizational": "loremipsum",
-    "organizationalref": "OPTIONAL",
-    "professionals": "loremipsum",
-    "professionalref": "OPTIONAL",
-    "machine": "loremipsum",
+    "definition": "Responsibility for actions, with mechanisms for feedback and correction.",
+    "people": "Friends own up to mistakes and try to make amends.",
+    "organizational": "Clear reporting structures ensure responsible decision making",
+    "professionals": "Engineers or doctors document and justify decisions, malpractice tracking",
+    "machine": "Clear assignment of fault, systems log decisions for audit.",
     "failureModes": {
       "human": "loremipsum",
       "organizational": "loremipsum",
@@ -196,30 +193,28 @@ export const cards = [
   {
     "category": "AT",
     "name": "Initiative",
-    "definition": "loremipsum",
-    "people": "loremipsum",
-    "organizational": "loremipsum",
-    "organizationalref": "OPTIONAL",
-    "professionals": "loremipsum",
-    "professionalref": "OPTIONAL",
-    "machine": "loremipsum",
+    "definition": "The capacity to act proactively without additional prompting to achieve aligned goals.",
+    "people": "A friend is the first one to try and fix a misunderstanding",
+    "organizational": "Teams anticipate the problems to arise and propose solutions very early in the process",
+    "professionals": "Researchers explore new methods before being asked to do so",
+    "machine": "An AI autonomously improves its model to better serve user intent.",
     "failureModes": {
-      "human": "loremipsum",
-      "organizational": "loremipsum",
-      "experts": "loremipsum",
-      "machine": "loremipsum"
+      "human": "Being passive elads to amny missed oportunities",
+      "organizational": "Waiting to react leads to slowed innovation",
+      "experts": "If experts are complacent then progress is slowed in the field",
+      "machine": "System waits for explicit instructions and fails to adapt."
     },
       "expand": {
-      "human": "loremipsum",
-      "organizational": "loremipsum",
-      "experts": "loremipsum",
-      "machine": "loremipsum"
+      "human": "Initiative reflects internal motivation and responsibility.",
+      "organizational": "Proactive cultures innovate and adapt faster.",
+      "experts": "Professional initiative drives advancement and leadership.",
+      "machine": "Autonomous initiative enables adaptive behavior that leads to increased alignment."
     }
   },
   {
     "category": "AT",
     "name": "Considerateness",
-    "definition": "loremipsum",
+    "definition": "Acting with regard for others’ needs and understanding boundaries.",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
@@ -242,7 +237,7 @@ export const cards = [
   {
     "category": "AT",
     "name": "Reciprocity",
-    "definition": "loremipsum",
+    "definition": "Mutual exchange that reinforces cooperation and fairness.",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
@@ -265,7 +260,7 @@ export const cards = [
   {
     "category": "AT",
     "name": "Shared Intentionality",
-    "definition": "loremipsum",
+    "definition": "Coordinated focus on common goals or tasks",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
@@ -288,7 +283,7 @@ export const cards = [
   {
     "category": "AT",
     "name": "Conflict Resolution",
-    "definition": "loremipsum",
+    "definition": "Mechanisms to address and repair disagreements.",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
@@ -311,7 +306,7 @@ export const cards = [
   {
     "category": "AT",
     "name": "Trustworthiness",
-    "definition": "loremipsum",
+    "definition": "Consistency and honesty that make others confident in them",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
@@ -334,7 +329,7 @@ export const cards = [
   {
     "category": "AT",
     "name": "Epistemic Humility",
-    "definition": "loremipsum",
+    "definition": "Acknowledging the limits of one’s knowledge.",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
@@ -357,7 +352,7 @@ export const cards = [
   {
     "category": "AT",
     "name": "Honesty",
-    "definition": "loremipsum",
+    "definition": "Commitment to truthfulness and accurate representation.",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
@@ -380,7 +375,7 @@ export const cards = [
   {
     "category": "AT",
     "name": "Role Fidelity",
-    "definition": "loremipsum",
+    "definition": "Acting within the ethical and functional expectations of one’s role.",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
@@ -403,7 +398,7 @@ export const cards = [
   {
     "category": "AT",
     "name": "Reliability/Consistency",
-    "definition": "loremipsum",
+    "definition": "Dependable performance over time in similar conditions",
     "people": "loremipsum",
     "organizational": "loremipsum",
     "organizationalref": "OPTIONAL",
